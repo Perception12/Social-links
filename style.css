@@ -71,6 +71,11 @@ body {
     width: 100%;
 }
 
+.card a {
+    text-decoration: none;
+    color: white;
+}
+
 .card ul li {
     padding: .7rem;
     margin: 1rem 0;
